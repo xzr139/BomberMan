@@ -1,0 +1,141 @@
+material Material#22
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.588 0.588 0.588 1
+			diffuse 0.588 0.588 0.588 1
+			specular 0 0 0 1 10
+			emissive 1 1 1 1
+			scene_blend one one_minus_src_alpha
+
+			texture_unit
+			{
+				texture ge-229f8080.dds
+			}
+		}
+
+	}
+
+}
+
+
+
+material Material#23
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.588 0.588 0.588 1
+			diffuse 0.588 0.588 0.588 1
+			specular 0 0 0 1 10
+			emissive 1 1 1 1
+			scene_blend one one_minus_src_alpha
+
+			texture_unit
+			{
+				texture ge-22591540.dds
+			}
+		}
+
+	}
+
+}
+
+
+
+material Material#24
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.588 0.588 0.588 1
+			diffuse 0.588 0.588 0.588 1
+			specular 0 0 0 1 10
+			emissive 1 1 1 1
+			scene_blend one one_minus_src_alpha
+
+			texture_unit
+			{
+				texture ge-1e4c56e0.dds
+			}
+		}
+
+	}
+
+}
+
+
+
+material Material#25
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.588 0.588 0.588 1
+			diffuse 0.588 0.588 0.588 1
+			specular 0 0 0 1 10
+			emissive 1 1 1 1
+			scene_blend one one_minus_src_alpha
+
+			texture_unit
+			{
+				texture ge-22a1c940.dds
+			}
+		}
+
+	}
+
+}
+
+
+
+material Material#26
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.588 0.588 0.588 1
+			diffuse 0.588 0.588 0.588 1
+			specular 0 0 0 1 10
+			emissive 1 1 1 1
+			scene_blend one one_minus_src_alpha
+
+			texture_unit
+			{
+				texture ge-223b70e0.dds
+			}
+		}
+
+	}
+
+}
+
+
+
+material Material#27
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.588 0.588 0.588 1
+			diffuse 0.588 0.588 0.588 1
+			specular 0 0 0 1 10
+			emissive 1 1 1 1
+			scene_blend one one_minus_src_alpha
+
+			texture_unit
+			{
+				texture ge-18c9cfa0.dds
+			}
+		}
+
+	}
+
+}
